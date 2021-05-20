@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Victor Bahlangene</title>
+    <link>https://victorbahlangene.github.io/Data_Science_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Victor Bahlangene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 May 2021 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://victorbahlangene.github.io/Data_Science_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2 : Programmers Salary Prediction</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 18 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 1 : Borough and Neighborhood for a New Movie Theatre</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 11 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-1/</guid>
+      <description>Determine a new location for a movie theatre in New York City.
+We do this by exploring the following:
+ Richest borough Population data of New York City Busy entertainment area Fewest number of theatres in the borough (ie low competition) Of the five Boroughs in New York, which is the richest(highest income)    Link to Github Repository
+Link to Blog post</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/VBahlangene   LinkedIn: https://www.linkedin.com/in/victor-bahlangene-9b406ba3   GitHub: https://github.com/victorbahlangene    </description>
+    </item>
+    
+  </channel>
+</rss>
