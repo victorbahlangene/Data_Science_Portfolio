@@ -34,13 +34,13 @@
 <meta property="og:description" content="Estimates Programmers Salaries" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-2/" />
-<meta property="article:published_time" content="2021-05-18T11:00:59-04:00" />
-<meta property="article:modified_time" content="2021-05-18T11:00:59-04:00" /><meta property="og:site_name" content="Victor Bahlangene" />
+<meta property="article:published_time" content="2022-04-14T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-04-14T00:00:00+00:00" /><meta property="og:site_name" content="Victor Bahlangene" />
 <meta itemprop="name" content="Project 2 : Programmers Salary Prediction">
 <meta itemprop="description" content="Estimates Programmers Salaries">
-<meta itemprop="datePublished" content="2021-05-18T11:00:59-04:00" />
-<meta itemprop="dateModified" content="2021-05-18T11:00:59-04:00" />
-<meta itemprop="wordCount" content="0">
+<meta itemprop="datePublished" content="2022-04-14T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2022-04-14T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="135">
 
 
 
@@ -57,8 +57,10 @@
    
   
 
-  <header>
-    <div class="bg-black">
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://victorbahlangene.github.io/Data_Science_Portfolio/images/streamlit%20linear%20regression.jpg');">
+    <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="https://victorbahlangene.github.io/Data_Science_Portfolio/" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -148,6 +150,16 @@
   </div>
 </nav>
 
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Project 2 : Programmers Salary Prediction</h1>
+          
+            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              Estimates Programmers Salaries
+            </h2>
+          
+        
+      </div>
     </div>
   </header>
 
@@ -195,12 +207,42 @@
       <h1 class="f1 athelas mt3 mb1">Project 2 : Programmers Salary Prediction</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="2021-05-18T11:00:59-04:00">May 18, 2021</time>
+      <time class="f6 mv4 dib tracked" datetime="2022-04-14T00:00:00Z">April 14, 2022</time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul class="pa0">
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p><strong>Determine the salary of a developer.</strong></p>
+<p>We do this by exploring the following:</p>
+<ul>
+<li>
+<p>Since we want to make a salary prediction, we will try two models, Linear Regression model and a lasso regression model</p>
+</li>
+<li>
+<p>Since our data contains 4 no numerical columns, we use OneHotEncoder function from sklean libriary</p>
+<ul>
+<li>OneHotEncoder converts categorical columns to nemerical columns by getting their dummpy values.</li>
+<li>I choose OneHotEncoder over get dummies because it can easily be added to my pipeline</li>
+</ul>
+</li>
+<li>
+<p>Next we use a train test split to separate our data into the test set and the training set</p>
+</li>
+<li>
+<p>Final we use a Pipline with cross validation te decide between the Lasso Regression and the linear regression model</p>
+</li>
+<li>
+<p>Save model and build functions to make a future calculation</p>
+</li>
+</ul>
+<figure>
+    <img src="https://victorbahlangene.github.io/Data_Science_Portfolio/images/streamlit%20linear%20regression.jpg"/> 
+</figure>
+
+<p><a href="https://share.streamlit.io/victorbahlangene/salarypredictstreamliapp/main/app.py">Link to App</a></p>
+<p><a href="https://github.com/victorbahlangene/salarypredict2022notebooks">Link to Github Repository</a></p>
+<p><a href="https://medium.com/@victorbahlangene96/second-ml-project-58efc38ca78a">Link to Blog post</a></p>
+<ul class="pa0">
   
 </ul>
 <div class="mt6 instapaper_ignoref">
@@ -222,7 +264,7 @@
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://victorbahlangene.github.io/Data_Science_Portfolio/" >
-    &copy;  Victor Bahlangene 2021 
+    &copy;  Victor Bahlangene 2022 
   </a>
     <div>
 
