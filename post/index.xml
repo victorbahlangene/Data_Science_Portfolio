@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Project 3 : Spam detection App</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-3/</guid>
+      <description>Determine the best Classification model.
+We do this by Using the following ML models and hypertunning the models:
+ KNN   Find best K value create pipeline and cross validated Fit the model with a range of K values Model prediction  Logistic Regression   create pipeline and cross validated Model prediction  SVM   Find initial SVC Then grid search prams(Find best parameters) Pipeline cross validated Fit model with a range of parameters Model Prediction  Random Forests   Grid search prams(Find best parameters) Pipeline cross validated Fit model with a range of parameters Model Prediction    Link to App</description>
+    </item>
+    
+    <item>
       <title>Project 2 : Programmers Salary Prediction</title>
       <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-2/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
