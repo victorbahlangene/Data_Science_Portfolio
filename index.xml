@@ -6,10 +6,20 @@
     <description>Recent content in Data Science Portfolio on Victor Bahlangene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://victorbahlangene.github.io/Data_Science_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project 3 : Data Science Frameworks Time Series App</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-4/</guid>
+      <description>One year Forecast Time Series Models.
+ user inputs a frame work user gets needs to choose method of evaluation  ARIMA  Make time series data stationary Plot the Correlation and AutoCorrelation Charts Construct ARIMA model based on data(user can choose p,I,q. we will give them best option(if there is time)) Use the model to make predictions(1 year) plot predictions   auto ARIMA  automate best params Construct ARIMA model based on data Use the model to make predictions(1 year) plot predictions   FbProphet  Construct model Use the model to make predictions(1 year) plot predictions plot_components() , shows trend and seasonality        Link to App</description>
+    </item>
     
     <item>
       <title>Project 3 : Spam detection App</title>
