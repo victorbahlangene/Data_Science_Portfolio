@@ -12,6 +12,21 @@
     
     
     <item>
+      <title>Project 5 : Hair Braid deep learing App</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-5/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-5/</guid>
+      <description>Determine Braid type.
+For deep learning models we will be using the Drivetrain approach in model creation.
+The Drivetrain Approach
+  Define objective : what are you trying to achieve
+ classify 3 types of braids:  cornrows dreadlocks two strand twist      Levers : what inputs can we control
+ images from duckduckgo    Data : what data can we collect
+ augment the images after collection make sure images are labelled    Models : how the levers influence the objective</description>
+    </item>
+    
+    <item>
       <title>Project 4 : Data Science Frameworks Time Series App</title>
       <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-4/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
