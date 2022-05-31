@@ -6,10 +6,24 @@
     <description>Recent content in Data Science Portfolio on Victor Bahlangene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://victorbahlangene.github.io/Data_Science_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project 6 : Hair Style Multiple Category Classification App</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-6/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-6/</guid>
+      <description>Determine Braid type.
+For deep learning models we will be using the Drivetrain approach in model creation.
+The Drivetrain Approach
+  Define objective : what are you trying to achieve
+ classify 4 types of hairstyles:  cornrows bald fade not a hairstyle      Levers : what inputs can we control
+ images from duckduckgo    Data : what data can we collect</description>
+    </item>
     
     <item>
       <title>Project 5 : Hair Braid deep learning App</title>
