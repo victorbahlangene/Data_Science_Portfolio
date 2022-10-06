@@ -4,7 +4,21 @@
   
   <url>
     <loc>https://victorbahlangene.github.io/Data_Science_Portfolio/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8/</loc>
+    <lastmod>2022-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-7/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

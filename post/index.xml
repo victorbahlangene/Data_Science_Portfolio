@@ -12,15 +12,35 @@
     
     
     <item>
+      <title>Project 8 : Kaggle Vision Competition Project - Part 1</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8/</guid>
+      <description>Sign Language Image Classification. I entered a simple Vision classification competition. This competition will be split into 3 parts. This is because we will keep improving on our model, but initially we start with a basic model.
+ Introduction: Business Problem Description: The sign language database of hand gestures represents a multi-class problem with 20 classes of letters and numbers (excluding some classes which require motion).
+Evaluation: The evaluation metric for this competition is accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Project 7 : NLP Transformers Project</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-7/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-7/</guid>
+      <description>News Scraping Summarization Sentiment. I will be using 2 different types of transformers for this project. One for Summarization text and another Sentiment analysis.
+ Introduction: Business Problem As someone new to the data science world, I find it hard at time to keep track of the various cutting edge technologies within our ever growing field.
+A great way to keep track of the technology is to read articles on medium.</description>
+    </item>
+    
+    <item>
       <title>Project 6 : Hair Style Multiple Category Classification App</title>
       <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-6/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-6/</guid>
-      <description>Determine Braid type.
-For deep learning models we will be using the Drivetrain approach in model creation.
-The Drivetrain Approach
-  Define objective : what are you trying to achieve
+      <description>Determine Braid type. For deep learning models we will be using the Drivetrain approach in model creation.
+The Drivetrain Approach   Define objective : what are you trying to achieve
  classify 4 types of hairstyles:  cornrows bald fade not a hairstyle      Levers : what inputs can we control
  images from duckduckgo    Data : what data can we collect</description>
     </item>
@@ -31,10 +51,8 @@ The Drivetrain Approach
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-5/</guid>
-      <description>Determine Braid type.
-For deep learning models we will be using the Drivetrain approach in model creation.
-The Drivetrain Approach
-  Define objective : what are you trying to achieve
+      <description>Determine Braid type. For deep learning models we will be using the Drivetrain approach in model creation.
+The Drivetrain Approach   Define objective : what are you trying to achieve
  classify 3 types of braids:  cornrows dreadlocks two strand twist      Levers : what inputs can we control
  images from duckduckgo    Data : what data can we collect
  augment the images after collection make sure images are labelled    Models : how the levers influence the objective</description>
@@ -46,8 +64,7 @@ The Drivetrain Approach
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-4/</guid>
-      <description>One year Forecast Time Series Models.
- user inputs a frame work user gets needs to choose method of evaluation  ARIMA  Make time series data stationary Plot the Correlation and AutoCorrelation Charts Construct ARIMA model based on data(user can choose p,I,q. we will give them best option(if there is time)) Use the model to make predictions(1 year) plot predictions   auto ARIMA  automate best params Construct ARIMA model based on data Use the model to make predictions(1 year) plot predictions   FbProphet  Construct model Use the model to make predictions(1 year) plot predictions plot_components() , shows trend and seasonality        Link to App</description>
+      <description>One year Forecast Time Series Models.  user inputs a frame work user gets needs to choose method of evaluation  ARIMA  Make time series data stationary Plot the Correlation and AutoCorrelation Charts Construct ARIMA model based on data(user can choose p,I,q. we will give them best option(if there is time)) Use the model to make predictions(1 year) plot predictions   auto ARIMA  automate best params Construct ARIMA model based on data Use the model to make predictions(1 year) plot predictions   FbProphet  Construct model Use the model to make predictions(1 year) plot predictions plot_components() , shows trend and seasonality        Link to App</description>
     </item>
     
     <item>
@@ -56,8 +73,7 @@ The Drivetrain Approach
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-3/</guid>
-      <description>Determine the best Classification model.
-We do this by Using the following ML models and hypertunning the models:
+      <description>Determine the best Classification model.** We do this by Using the following ML models and hypertunning the models:
  KNN   Find best K value create pipeline and cross validated Fit the model with a range of K values Model prediction  Logistic Regression   create pipeline and cross validated Model prediction  SVM   Find initial SVC Then grid search prams(Find best parameters) Pipeline cross validated Fit model with a range of parameters Model Prediction  Random Forests   Grid search prams(Find best parameters) Pipeline cross validated Fit model with a range of parameters Model Prediction    Link to App</description>
     </item>
     
@@ -67,8 +83,7 @@ We do this by Using the following ML models and hypertunning the models:
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-2/</guid>
-      <description>Determine the salary of a developer.
-We do this by exploring the following:
+      <description>Determine the salary of a developer. We do this by exploring the following:
   Since we want to make a salary prediction, we will try two models, Linear Regression model and a lasso regression model
   Since our data contains 4 no numerical columns, we use OneHotEncoder function from sklean libriary
  OneHotEncoder converts categorical columns to nemerical columns by getting their dummpy values. I choose OneHotEncoder over get dummies because it can easily be added to my pipeline    Next we use a train test split to separate our data into the test set and the training set</description>
@@ -80,8 +95,7 @@ We do this by exploring the following:
       <pubDate>Tue, 11 May 2021 10:58:08 -0400</pubDate>
       
       <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-1/</guid>
-      <description>Determine a new location for a movie theatre in New York City.
-We do this by exploring the following:
+      <description>Determine a new location for a movie theatre in New York City. We do this by exploring the following:
  Richest borough Population data of New York City Busy entertainment area Fewest number of theatres in the borough (ie low competition) Of the five Boroughs in New York, which is the richest(highest income)    Link to Github Repository
 Link to Blog post</description>
     </item>
