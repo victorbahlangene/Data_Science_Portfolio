@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Project 9 : Kaggle Vision Competition Project - Part 2</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9/</guid>
+      <description>Sign Language Image Classification part 2. Data Augmentation entails change of shape, color, and orientation to make our models better at generalization. I will be also using the ConvNeXt model. this model is more accurate than the resnet model we used in part 1.
+ Introduction: Business Problem Description: The sign language database of hand gestures represents a multi-class problem with 20 classes of letters and numbers (excluding some classes which require motion).</description>
+    </item>
+    
+    <item>
       <title>Project 8 : Kaggle Vision Competition Project - Part 1</title>
       <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
