@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Project 10 : Kaggle Vision Competition Project - Part 3</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-10/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-10/</guid>
+      <description>Sign Language Image Classification part 3. Part 3 of this Kaggle competition will explore the power of Ensembling.
+The idea behind ensembles is that you train different model types on a dataset and then you average the results. This seems rather simple, the problem being that most online websites that provide access to free gpus set a limit on the amount of RAM(random access memory) the user can use at a given time.</description>
+    </item>
+    
+    <item>
       <title>Project 9 : Kaggle Vision Competition Project - Part 2</title>
       <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
