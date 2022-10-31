@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Project 12 : Kaggle Natural Language Processing Competition — Part 2</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-12/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-12/</guid>
+      <description>Natural Language Processing with Disaster Tweets Classification part 2. Sentiment analysis is the automated process of tagging data according to their sentiment, such as positive, negative and neutral. Sentiment analysis allows companies to analyze data at scale, detect insights and automate processes.
+ Introduction: Business Problem Description: Now we have created a basic model. The goal now is to iterate on this model by making a good validation dataset. This is an issue of try and error since there is no general way of doing this.</description>
+    </item>
+    
+    <item>
       <title>Project 11 : Kaggle Natural Language Processing Competition — Part 1</title>
       <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-11/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
