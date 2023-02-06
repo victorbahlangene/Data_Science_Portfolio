@@ -6,57 +6,66 @@
     <description>Recent content in Data Science Portfolio on Victor Bahlangene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://victorbahlangene.github.io/Data_Science_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project 12 : Kaggle Natural Language Processing Competition — Part 2</title>
-      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-12/</link>
+      <title>Project 10 : Star Wars: Multimodal App</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-10/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-10/</guid>
+      <description>Learn more about star wars characters Introduction: Business Problem Description: I recently started watching star wars tv shows. Star wars is one of the most popular franchises in the world.With that in mind the bariar of entry can be high. I want to create an app that can predict a star wars character through a computer vision model, extract a summary about that charater and generate a quiz relevent to the character.</description>
+    </item>
+    
+    <item>
+      <title>Project 9 : Kaggle Natural Language Processing Competition — Part 2</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9_2/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-12/</guid>
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9_2/</guid>
       <description>Natural Language Processing with Disaster Tweets Classification part 2. Sentiment analysis is the automated process of tagging data according to their sentiment, such as positive, negative and neutral. Sentiment analysis allows companies to analyze data at scale, detect insights and automate processes.
  Introduction: Business Problem Description: Now we have created a basic model. The goal now is to iterate on this model by making a good validation dataset. This is an issue of try and error since there is no general way of doing this.</description>
     </item>
     
     <item>
-      <title>Project 11 : Kaggle Natural Language Processing Competition — Part 1</title>
-      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-11/</link>
+      <title>Project 9 : Kaggle Natural Language Processing Competition — Part 1</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9_1/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-11/</guid>
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9_1/</guid>
       <description>Natural Language Processing with Disaster Tweets Classification part 1. Sentiment analysis is the automated process of tagging data according to their sentiment, such as positive, negative and neutral. Sentiment analysis allows companies to analyze data at scale, detect insights and automate processes.
  Introduction: Business Problem Description: Sentiment analysis(Text classification) is a common task in the world of Natural Language Processing(NLP). The general idea is to take a phrase of text and determine if as we will explore in this Kaggle competition, whether the tweet indicates a disaster has occurred or if its just a regular tweet.</description>
     </item>
     
     <item>
-      <title>Project 10 : Kaggle Vision Competition Project - Part 3</title>
-      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-10/</link>
+      <title>Project 8 : Kaggle Vision Competition Project - Part 3</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8_3/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-10/</guid>
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8_3/</guid>
       <description>Sign Language Image Classification part 3. Part 3 of this Kaggle competition will explore the power of Ensembling.
 The idea behind ensembles is that you train different model types on a dataset and then you average the results. This seems rather simple, the problem being that most online websites that provide access to free gpus set a limit on the amount of RAM(random access memory) the user can use at a given time.</description>
     </item>
     
     <item>
-      <title>Project 9 : Kaggle Vision Competition Project - Part 2</title>
-      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9/</link>
+      <title>Project 8 : Kaggle Vision Competition Project - Part 2</title>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8_2/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-9/</guid>
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8_2/</guid>
       <description>Sign Language Image Classification part 2. Data Augmentation entails change of shape, color, and orientation to make our models better at generalization. I will be also using the ConvNeXt model. this model is more accurate than the resnet model we used in part 1.
  Introduction: Business Problem Description: The sign language database of hand gestures represents a multi-class problem with 20 classes of letters and numbers (excluding some classes which require motion).</description>
     </item>
     
     <item>
       <title>Project 8 : Kaggle Vision Competition Project - Part 1</title>
-      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8/</link>
+      <link>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8_1/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8/</guid>
+      <guid>https://victorbahlangene.github.io/Data_Science_Portfolio/post/project-8_1/</guid>
       <description>Sign Language Image Classification. I entered a simple Vision classification competition. This competition will be split into 3 parts. This is because we will keep improving on our model, but initially we start with a basic model.
  Introduction: Business Problem Description: The sign language database of hand gestures represents a multi-class problem with 20 classes of letters and numbers (excluding some classes which require motion).
 Evaluation: The evaluation metric for this competition is accuracy.</description>
